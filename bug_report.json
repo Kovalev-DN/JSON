@@ -1,1 +1,8 @@
-
+{
+  "name": "Error 404",
+  "description": "404 error when going to page",
+  "Playback steps": "1. Go to the site, 2.Press the button",
+  "Expected Result": "page will open",
+  "Actual result": "Error 404",
+  "Appointed": "User23"
+}
